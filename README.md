@@ -1,6 +1,7 @@
 # Python com Django - Enquete
+Saindo do Zero em Django no Python 
 
-Criação de uma enquete, em ambiente virtual, utilizando a linguagem Python e o framework Django.
+Atividade: Criação de uma enquete, em ambiente virtual, utilizando a linguagem Python e o framework Django.
 
 ## Sequência de comando para criação do ambiente
 1. No anaconda prompt: py -m pip install Django
